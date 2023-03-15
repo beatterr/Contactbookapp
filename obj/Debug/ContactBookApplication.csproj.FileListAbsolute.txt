@@ -1,0 +1,13 @@
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.exe.config
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.exe
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.pdb
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.csprojResolveAssemblyReference.cache
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.exe
+c:/users/oguzcan.guler/documents/visual studio 2015/Projects/ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.pdb
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.exe.config
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.exe
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/bin/Debug/ContactBookApplication.pdb
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.csproj.AssemblyReference.cache
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.csproj.CoreCompileInputs.cache
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.exe
+/Users/alp/Desktop/ny4/NET programing /ContactBookApplication/ContactBookApplication/obj/Debug/ContactBookApplication.pdb
